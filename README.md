@@ -11,12 +11,12 @@ using input values and a math library.
 4. Check the distance calculated on the screen.
 
 # Input Needed
-- x1
-- y1
-- x2
 - y2
+- y1
+- x1
+- x2
 
-# Sample Output
+# Examples
 Enter x1: 2
 Enter y1: 3
 Enter x2: 7
