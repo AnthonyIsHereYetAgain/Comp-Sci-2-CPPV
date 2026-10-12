@@ -2,16 +2,17 @@
 
 import math
 
+## greet the user
+print("Hi user input two points to calculate the distance!")
+
 ## How do we run the code?
 1. Open the program code
 2. Run the code
 3. Enter the values for each variable
 4. Take a look at the rounded distance displayed
 
-## greet the user
-print("Hi user input two points to calculate the distance!")
-
 ## ask the user to input the position of the 1st point
+x1 = float(input("Enter x1: "))
 y1 = float(input("Enter y1: "))
 
 ## Ask the user to input the position of the 2nd point
