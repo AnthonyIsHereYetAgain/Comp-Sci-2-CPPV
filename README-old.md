@@ -17,12 +17,12 @@ using input values and a math library.
 - x2
 
 # Examples
-Enter x1: 2
-Enter y1: 3
-Enter x2: 7
-Enter y2: 8
+Enter x1: 1
+Enter y1: 4
+Enter x2: 5
+Enter y2: 7
 
-The distance between the two points is: 7.07
+The distance between the two points is: 5.00
 
 # Author
 Name: Carilla, Palafox, Valdez, Palapala
